@@ -15,6 +15,7 @@ This frontend connects with the backend API to shorten long URLs, generate uniqu
 <img width="1875" height="852" alt="image" src="https://github.com/user-attachments/assets/aa97d456-58de-40cb-b4e3-2b7939b25c3b" />
 
 ##  **Get URL by Code Page**
+# Where we can check the no fo view and visted date
 <img width="1890" height="862" alt="image" src="https://github.com/user-attachments/assets/291b20d6-24e1-4a82-a15f-caea7e97b4ed" />
 
 
