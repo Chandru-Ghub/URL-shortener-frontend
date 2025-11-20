@@ -8,6 +8,16 @@ This frontend connects with the backend API to shorten long URLs, generate uniqu
 
 ## 🚀 **Features**
 
+##  **Landing Page**
+<img width="1913" height="857" alt="image" src="https://github.com/user-attachments/assets/3afdb124-a426-4002-9cfa-6af909607d6a" />
+
+##  **List of generated URL Page**
+<img width="1875" height="852" alt="image" src="https://github.com/user-attachments/assets/aa97d456-58de-40cb-b4e3-2b7939b25c3b" />
+
+##  **Get URL by Code Page**
+<img width="1890" height="862" alt="image" src="https://github.com/user-attachments/assets/291b20d6-24e1-4a82-a15f-caea7e97b4ed" />
+
+
 ### 🔥 Core Functionality
 
 * Shorten any long URL in one click
