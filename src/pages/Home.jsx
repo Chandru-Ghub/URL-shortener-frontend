@@ -92,7 +92,6 @@ export default function Home() {
 
     try {
       const newLink = await createLink({ url, code: code || undefined });
-      setShowLink(newLink);
       setUrl('');
       setCode('');
       setUrlError('');
@@ -166,7 +165,6 @@ export default function Home() {
                       >
                         {submitLoading ? 'Creating...' : <span className='flex items-center justify-center gap-5'>Get your link for free <FaArrowRight/></span> }
                       </Button>
-                      {/* {showLink} */}
                     </div>
                     </form>
                 
