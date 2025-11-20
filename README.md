@@ -156,11 +156,4 @@ EXPOSE 4173
 CMD ["npm", "run", "preview"]
 ```
 
----
-
-## 🙌 **Contributing**
-
-Pull Requests are welcome!
-Please make sure to follow proper commit messages and include a clear PR description.
-
 
